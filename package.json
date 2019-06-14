@@ -1,0 +1,22 @@
+{
+  "name": "@youwd/browser",
+  "version": "0.0.1",
+  "description": "browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youwd/-youwd-browser.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "youwd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youwd/-youwd-browser/issues"
+  },
+  "homepage": "https://github.com/youwd/-youwd-browser#readme"
+}
